@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\bin\Debug\Lab11GC.exe.config
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\bin\Debug\Lab11GC.exe
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\bin\Debug\Lab11GC.pdb
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\obj\Debug\Lab11GC.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\obj\Debug\Lab11GC.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\obj\Debug\Lab11GC.exe
+C:\Users\admin\source\repos\Lab11GC\Lab11GC\obj\Debug\Lab11GC.pdb
